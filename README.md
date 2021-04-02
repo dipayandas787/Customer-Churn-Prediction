@@ -8,3 +8,6 @@ The main objective of our project was to build a predictive model to generate a 
 MODEL:
 
 After training and testing our model using Machine Leaning and building an ANN model our accuracy for the model was 0.82(82%). I used accuracy as my main metric.Accuracy which is the number of correctly predicted data points out of all the data points was 0.79(79%).This tells us that the model has correctly identified 79% of customers that actually churned.
+
+
+Video link of code explaination:https://drive.google.com/file/d/1OLQDYXVXVEIOlzD816cvbiayqC4Sdasc/view?usp=drivesdk
